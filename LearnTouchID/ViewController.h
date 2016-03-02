@@ -2,7 +2,7 @@
 //  ViewController.h
 //  LearnTouchID
 //
-//  Created by LIAN on 16/1/13.
+//  Created by LIAN on 16/1/12.
 //  Copyright (c) 2016年 com.Alice. All rights reserved.
 //
 
